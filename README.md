@@ -1,6 +1,6 @@
 ### Kanon Ufo malware Latino 👨‍💻
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Latinomal)](https://twitter.com/EngincanVeske)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Latinomal)](https://twitter.com/Latinomal)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@kanonufo)
 [![GitHub followers](https://img.shields.io/github/followers/Mantraufo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mantraufo?tab=followers)
 
