@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**Mantraufo/Mantraufo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Kanon Ufo malware Latino 👨‍💻
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Latinomal)](https://twitter.com/EngincanVeske)
@@ -18,11 +12,11 @@ Here are some ideas to get you started:
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></a></code>
 
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=EngincanV&show_icons=true&line_height=30)
+![Mantraufo's github stats](https://github-readme-stats.vercel.app/api?username=Mantraufo&show_icons=true&line_height=30)
 
 🌱 Learning all about **Open Source**
 
-⭐️ From [EngincanV](https://github.com/Mantraufo)
+⭐️ From [Mantraufo](https://github.com/Mantraufo)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
