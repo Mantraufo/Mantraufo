@@ -4,8 +4,9 @@
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-[![youtube](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg)](https://www.youtube.com/channel/UCjHnCva4QLv00JM0lyr3zUQ)
+
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@kanonufo)
+[![youtube](https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg)](https://www.youtube.com/channel/UCjHnCva4QLv00JM0lyr3zUQ)
 [![GitHub followers](https://img.shields.io/github/followers/Mantraufo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mantraufo?tab=followers)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
