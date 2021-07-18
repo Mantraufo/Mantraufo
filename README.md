@@ -1,7 +1,11 @@
 <img src ="https://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif" align="right" class="center">
-### Kanon Ufo Malware Latino 👨‍💻
-
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Latinomal)](https://twitter.com/Latinomal)
+<div align="center">
+   <h1>Hi there, I'm <a href="https://hemant.codes">Kanon Ufo</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
+/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Latinomal)](https://twitter.com/Latinomal)
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@kanonufo)
 [![GitHub followers](https://img.shields.io/github/followers/Mantraufo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mantraufo?tab=followers)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
