@@ -5,7 +5,7 @@
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
-/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Latinomal)](https://twitter.com/Latinomal)
+
 [![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@kanonufo)
 [![GitHub followers](https://img.shields.io/github/followers/Mantraufo.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Mantraufo?tab=followers)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
