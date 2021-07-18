@@ -31,7 +31,7 @@
 
 </div>
 <p aling="center">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:4px" href="https://www.youtube.com/channel/UCjHnCva4QLv00JM0lyr3zUQ">
  </p>
 🌱 Learning all about **Open Source**
 
