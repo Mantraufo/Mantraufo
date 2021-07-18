@@ -31,10 +31,7 @@
 </p>
 
 </div>
-<p aling="center">
-<img src="" alt="youtube" style="vertical-align:top; margin:4px" href="https://www.youtube.com/channel/UCjHnCva4QLv00JM0lyr3zUQ">
- </p>
-🌱 Learning all about **Open Source**
+
 
 ⭐️ From [Mantraufo](https://github.com/Mantraufo)
 
