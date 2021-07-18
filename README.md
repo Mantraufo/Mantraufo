@@ -13,7 +13,6 @@
 <code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
 <code><a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank"><img height="50" src="https://2.bp.blogspot.com/-DrHDBZWMWC0/WyLLvXElCpI/AAAAAAAAACg/BpyMuVGLcaQJ3ur3HgsVqcgZ_di2-Qb1QCLcBGAs/s320/c-plus-plus-logo.png"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></a></code>
-<code><a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img heigth="10" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powershell_icon_130243.png"></a></code>
 ![Mantraufo's github stats](https://github-readme-stats.vercel.app/api?username=Mantraufo&show_icons=true&line_height=30)
 
 🌱 Learning all about **Open Source**
