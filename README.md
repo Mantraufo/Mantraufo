@@ -29,7 +29,10 @@
 
 </p>
 
-
+</div>
+<p aling="center">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/streaming/youtube.svg" alt="youtube" style="vertical-align:top; margin:4px">
+ </p>
 🌱 Learning all about **Open Source**
 
 ⭐️ From [Mantraufo](https://github.com/Mantraufo)
