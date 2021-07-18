@@ -14,9 +14,7 @@
 
 **👨🏻‍💻 Currently working on:** 
 
-<code><a href="https://github.com/dotnet/core" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank"><img height="50" src="https://2.bp.blogspot.com/-DrHDBZWMWC0/WyLLvXElCpI/AAAAAAAAACg/BpyMuVGLcaQJ3ur3HgsVqcgZ_di2-Qb1QCLcBGAs/s320/c-plus-plus-logo.png"></a></code>
-<code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></a></code>
+
 ![Mantraufo's github stats](https://github-readme-stats.vercel.app/api?username=Mantraufo&show_icons=true&line_height=30)
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -26,6 +24,10 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="dotnet" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="visual studio ide" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:4px">
+
 </p>
 
 
