@@ -14,7 +14,14 @@
 <code><a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank"><img height="50" src="https://2.bp.blogspot.com/-DrHDBZWMWC0/WyLLvXElCpI/AAAAAAAAACg/BpyMuVGLcaQJ3ur3HgsVqcgZ_di2-Qb1QCLcBGAs/s320/c-plus-plus-logo.png"></a></code>
 <code><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img height="50" src="https://www.fixedbuffer.com/wp-content/uploads/2019/06/reflexion.png"></a></code>
 ![Mantraufo's github stats](https://github-readme-stats.vercel.app/api?username=Mantraufo&show_icons=true&line_height=30)
-
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
 🌱 Learning all about **Open Source**
 
 ⭐️ From [Mantraufo](https://github.com/Mantraufo)
