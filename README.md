@@ -15,7 +15,12 @@
 **👨🏻‍💻 Currently working on:** 
 
 
-![Mantraufo's github stats](https://github-readme-stats.vercel.app/api?username=Mantraufo&show_icons=true&line_height=30)
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=mantraufo&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
